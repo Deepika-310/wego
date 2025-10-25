@@ -48,6 +48,10 @@
   Vision: To redefine local employment by creating a seamless, safe, and flexible work ecosystem where anyone can work, earn, and move forward — powered by trust, technology, and transparency.      
   
   Mission: To empower millions of everyday individuals — students, freelancers, part-time workers, and skilled professionals — to earn income on demand while helping local businesses and individuals find reliable short-term help. Competitive Edge: Broader job range (from 1-hour to multi-day work). Instant KYC onboarding (no lengthy approval). Equal platform for both skilled and common workers. Built-in safety + live tracking. AI-powered classification for certified vs non-certified work.
-  
+
+   WORKING OF THE APP:
+   
+  <img width="367" height="207" alt="image"     src="https://github.com/user-attachments/assets/d1e4359d-8a96-493c-88c2-5262a115aad1"    />
+
   
   THANK YOU
